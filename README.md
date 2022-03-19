@@ -1,6 +1,6 @@
 # Hello! I am NotAMojangDev
 - [x] Nickname that I think is funny?
-> Funny Because I am a developer but not at [![img](https://www.videogameschronicle.com/files/2020/05/Mojang-new-logo.jpg)](https://mojang.com)
+> Funny Because I am a developer but not at [Mojang](https://mojang.com)
 
 - [x] no humor?
 > True I have no Humor
