@@ -1,4 +1,8 @@
 # Hello! I am NotAMojangDev
+
+![img](https://github-readme-stats.vercel.app/api?username=NotAMojangDev&show_icons=true&theme=dark)
+
+
 - [x] Nickname that I think is funny?
 > Funny Because I am a developer but not at [Mojang](https://mojang.com)
 
