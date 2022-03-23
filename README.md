@@ -23,7 +23,7 @@
 > and would like you if you know html to help me learn
 > [My Website](https://notamojangdev.github.io)
 
-- [x] Would lvoe you to help me?
+- [x] Would love you to help me?
 > if you know any of these coding languages I would love for you to help me learn
 - [ ] Java
 - [ ] HTML
