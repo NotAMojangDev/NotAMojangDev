@@ -1,4 +1,4 @@
-# Hello! I am NotAMojangDev
+# Hello! 👋 I am NotAMojangDev
 
 ![img](https://github-readme-stats.vercel.app/api?username=NotAMojangDev&show_icons=true&theme=tokyonight)
 
