@@ -26,12 +26,9 @@
 - [x] Would love you to help me?
 > if you know any of these coding languages I would love for you to help me learn
 - [ ] Java
-- [ ] HTML
+- [x] HTML
 - [ ] JavaScript
-- [ ] CSS
+- [x] CSS
 - [ ] C#
 - [ ] C
 - [ ] C++
-
-- [x] Would like to learn to be a better Artist?
-> I would like to improve my art skills
