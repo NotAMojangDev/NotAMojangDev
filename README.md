@@ -2,33 +2,17 @@
 
 ![img](https://github-readme-stats.vercel.app/api?username=NotAMojangDev&show_icons=true&theme=tokyonight)
 
-
-- [x] Nickname that I think is funny?
-> Funny Because I am a developer but not at [Mojang](https://mojang.com)
-
-- [x] no humor?
-> True I have no Humor
-
-- [x] No Friends?
-> I am LONELY!!!!!!
-
 - [x] Active on Discord?
-> Yes I am My tag is `NotAMojangDev#3761`
-
-- [x] Admin and Dev on a minecraft server?
-> Yes I am an Admin on [Arcane Cat](https://discord.gg/Qt5xHcnRrA)
+> Yes I am, My tag is `NotAMojangDev#3761`
 
 - [x] Need Feedback on my website?
 > Yes I would like for you to help me improve it
 > and would like you if you know html to help me learn
-> [My Website](https://notamojangdev.github.io)
+> [My Website](https://notamojangdev.pages.dev)
 
-- [x] Would love you to help me?
-> if you know any of these coding languages I would love for you to help me learn
-- [ ] Java
-- [x] HTML
-- [ ] JavaScript
-- [x] CSS
-- [ ] C#
-- [ ] C
-- [ ] C++
+- [ ] Would you like to help me if possible?
+> if you know any of these coding languages I would love for you to help me learn them
+- Java
+- C#
+- C
+- C++
