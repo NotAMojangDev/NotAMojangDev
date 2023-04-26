@@ -1,6 +1,6 @@
 # Hello! 👋 I am NotAMojangDev
 
-![img](https://github-readme-stats.vercel.app/api?username=NotAMojangDev&show_icons=true&theme=tokyonight)
+[![NotAMojangDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotAMojangDev)](https://github.com/NotAMojangDev/NotAMojangDev)
 
 - [x] Active on Discord?
 > Yes I am, My tag is `NotAMojangDev#3761`
