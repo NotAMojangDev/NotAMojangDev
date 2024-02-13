@@ -4,11 +4,13 @@
 
 ## Languages I've used
 - JavaScript && TypeScript (Node.js, Bun, JSCore, Chromium && Tauri)
-- Python
+- Svelte JS && TS (Experimented)
 - HTML && CSS
+- Python
 - Java
 - C
 - Rust
+- SQL (SQLite3)
 
 
 I don't have anything else to put here
